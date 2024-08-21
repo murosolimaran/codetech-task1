@@ -51,3 +51,4 @@ Exploratory Data Analysis (EDA) is a crucial step in any data analysis or data s
 - **Techniques**: Histograms, scatter plots, box plots, heatmaps, pair plots, correlation matrices
 
 By following these steps, EDA helps you build a comprehensive understanding of your data, which is essential for making informed decisions in subsequent stages of your data science or analytics project.
+"C:\Users\welcome\Pictures\Screenshots\Screenshot 2024-08-13 211641.png"
